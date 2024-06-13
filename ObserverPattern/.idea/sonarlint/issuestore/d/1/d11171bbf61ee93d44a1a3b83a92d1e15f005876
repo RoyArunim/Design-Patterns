@@ -1,0 +1,6 @@
+
+R
+java:S1854"=Remove this useless assignment to local variable "observer4".(‚µ°<
+C
+java:S1481".Remove this unused "observer4" local variable.(‚µ°<
+P	java:S125"<This block of commented-out lines of code should be removed.(Ò¸òy
